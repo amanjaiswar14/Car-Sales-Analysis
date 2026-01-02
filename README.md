@@ -87,7 +87,7 @@ The dataset is sourced from **sales transaction data (Excel/CSV)** containing:
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshots of your Power BI dashboard here)*
+*(Add screenshots of your Power BI)*
 
 ---
 
